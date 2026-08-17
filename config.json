@@ -1,0 +1,17 @@
+{
+  "username": "arsommm",
+  "name": "Arsom Esfandiary",
+  "wordmark": "ARSOM",
+  "role": "Computer Engineering Student",
+  "location": "Tehran",
+  "status": "Learning, building & exploring AI",
+  "website": "",
+  "photo": "assets/profile-source.png",
+  "skills": [
+  "Python",
+  "Frontend",
+  "SQL",
+  "Power BI",
+  "AI"
+]
+}
